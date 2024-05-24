@@ -20,3 +20,4 @@ index a1f8648..1b3d608 100644
              });
          };
          const createBodyResult = (0, _tracer.getTracer)().wrap(_constants2.RenderSpan.createBodyResult, (initialStream, suffix)=>{
+ ReactDOMServer: _serverbrowser.adjust0[llc]{tree} 
